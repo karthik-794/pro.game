@@ -1,0 +1,54 @@
+#main{
+    height: 400px;
+    width: 500px;
+    border: 5px solid rgb(250, 246, 246);
+    margin: auto;
+    margin-top: 100px;
+    text-align: justify;
+    text-align: center;
+    background: url(./download\ \(3\).jfif);
+    background-size: auto;
+    background-size: cover;
+    border-radius: 50px;
+}
+#rules{
+    text-align: justify;
+    margin-left: 100px;
+}
+
+#one,two{
+    justify: space-evenly;
+
+}
+body{
+    background: black;
+    background-image: url("./bg45.jfif");
+    background-size: auto;
+    background-size: cover;
+}
+h2{
+   color: white;
+   font-family: sans-serif;
+}
+button{
+
+    border-radius: 150px;
+    justify-content: space-evenly;
+    margin-left: 72px;
+    margin-right: 73px;
+    border: rgb(243, 221, 221) solid 3px;
+    background: black;
+    color: bisque;
+
+
+}
+
+#rules{
+
+    color: #FECB03;
+}
+
+#n1{
+    height: 25px;
+    width: 200px;
+}
